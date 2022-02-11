@@ -14,6 +14,10 @@
 
 ### PowerShell Command:
   ***cat heart.csv | python 22mapper.py | python 22sorter.py | python 22reducer.py > output.txt***
+  
+### Graph:
+(![heart health graph](![Screenshot (92)](https://user-images.githubusercontent.com/89153397/153533890-596a7fca-17b4-4c9c-86a5-a77a141b59a2.png)
+))
 
 ## Summary:
 - By executing the sorted output from hearthealth datasets it clearly specifies that the average heart rate is the average age group. 
